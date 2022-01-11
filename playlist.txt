@@ -1,10 +1,6 @@
 SONG - ARTIST
 =============
-SOS - ABBA
-One of us - ABBA
-song 1
-song 2
-song 3
+
 George Harrison 1
 George Harrison 2
 George Harrison 3
