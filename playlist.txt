@@ -8,3 +8,5 @@ song 3
 George Harrison 1
 George Harrison 2
 George Harrison 3
+Van Morrison 1
+Van Morrison 2
