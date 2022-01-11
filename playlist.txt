@@ -8,3 +8,6 @@ song 3
 George Harrison 1
 George Harrison 2
 George Harrison 3
+George Michaels 1
+George Michaels 2
+George Michaels 3
